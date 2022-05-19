@@ -1,9 +1,13 @@
-.row{ 
-    padding: 20px;
+.row{
+    padding: 60px;
 }
-div{ 
-    background-color: antiquewhite;
+div{
+    background-color: rgb(154, 176, 190);;
 }
-h1,h3,h2{ 
+h1,h3,h2{
     display: inline;
+    line-height: initial;
+}
+h1{
+  text-decoration: underline;
 }

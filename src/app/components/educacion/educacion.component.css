@@ -1,9 +1,14 @@
-.row{ 
-    padding: 20px;
+.row{
+    padding: 60px;
 }
-div{ 
-    background-color: rgb(238, 245, 200);
+div{
+    background-color: rgba(186, 211, 228, 0.959);
 }
-h1,h3,h2{ 
+h1,h3,h2{
     display: inline;
+    text-align: justify;
+    line-height:initial;
+}
+h1{
+  text-decoration: underline;
 }

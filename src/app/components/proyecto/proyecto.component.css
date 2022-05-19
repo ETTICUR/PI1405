@@ -1,0 +1,20 @@
+.row{
+  background-color: rgb(195, 195, 219);
+  padding: 20px;
+}
+h1,h3,h2{
+  display: inline;
+  text-align: justify;
+  line-height:initial;
+}
+h1{
+text-decoration: underline;
+}
+img{
+    position:static;
+    width: 75%;
+    right: 75%;
+    top: 600px;
+    height: 70 px;
+  }
+

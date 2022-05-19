@@ -1,8 +1,16 @@
 div{
-    background-color: burlywood;
+    background-color:rgb(168, 219, 221);
 }
 
 app-social{
     float: right;
-    margin-top: 25px;
+    margin-top: 50px;
 }
+
+#logoAP{
+  width: 70px;
+}
+img{
+width: 30px;
+}
+
